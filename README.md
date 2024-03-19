@@ -7,9 +7,7 @@ Comandos utilizados pelo Git para subir arquivos para o GitHub
 | --- | --- |
 | `git init` | Inicia o repositorio git local |
 
-### Comandos
-
-#### Push
+### Push
 
 | COMANDO | DESCRICAO |
 | --- | --- |
@@ -19,9 +17,9 @@ Comandos utilizados pelo Git para subir arquivos para o GitHub
 | | Ex.: `git remote add origin https://github.com/rogeriorossi/dreamsky.git` |
 | 4. `git push -u origin main` | Envia os arquivos modificados ou criados para o github |
 
-#### Merge
+### Merge
 | # | COMANDO | DESCRICAO |
-| --- | --- |
+| --- | --- | --- |
 | 1 | `git checkout main` | Vai para a branch que receberá os arquivos alterados |
 | 3 | `git merge branch-doadora` | Coloca o nome da branch que vai enviar os dados |
 | 4 | `git add .` | Adicina os arquivos alterados para fazer upload |
