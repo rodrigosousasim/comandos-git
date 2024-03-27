@@ -31,5 +31,5 @@ Comandos utilizados pelo Git para subir arquivos para o GitHub
 | COMANDO | DESCRICAO |
 | --- | --- |
 | `git status` | mostra o status dos arquivos novos ou alterados |
-| `git reset` | volta a condição enates do ultimo commit |
+| `git reset` | volta a condição antes do ultimo commit |
 | `git clone <diretorio remoto no github>` | Clona o diretório do github para sua máquina local. Ex: git clone https://github.com/rogeriorossi/comandos-git.git |
