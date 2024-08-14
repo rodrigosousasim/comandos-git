@@ -21,11 +21,13 @@ Comandos utilizados pelo Git para subir arquivos para o GitHub
 ### Merge
 | # | COMANDO | DESCRICAO |
 | --- | --- | --- |
+| - | `git checkout -b <branch name>` | cria uma nova branch |
 | 1 | `git checkout main` | Vai para a branch que receberá os arquivos alterados |
 | 2 | `git merge <branch-doadora>` | Coloca o nome da branch que vai enviar os dados. Ex.: git merge branch2 |
 | 3 | `git add .` | Adiciona os arquivos alterados para fazer upload |
 | 4 | `git commit -m "mensagem"` | Comita os arquivos no repositorio local |
 | 5 | `git push -u origin main` | Envia os arquivos modificados ou criados para o github |
+
 
 ### Outros Comandos
 
