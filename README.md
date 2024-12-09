@@ -28,7 +28,6 @@ Comandos utilizados pelo Git para subir arquivos para o GitHub
 | 4 | `git commit -m "mensagem"` | Comita os arquivos no repositorio local |
 | 5 | `git push -u origin main` | Envia os arquivos modificados ou criados para o github |
 
-
 ### Outros Comandos
 
 | COMANDO | DESCRICAO |
@@ -37,3 +36,6 @@ Comandos utilizados pelo Git para subir arquivos para o GitHub
 | `git reset` | volta a condição antes do ultimo commit |
 | `git clone <diretorio remoto no github>` | Clona o diretório do github para sua máquina local |
 | | Ex: git clone https://github.com/rogeriorossi/comandos-git.git |
+| | |
+| git config user.name "Fulano de Tal" | Configura o nome em um computador novo. Só será necessário uma vez |
+| git config user.email teste@teste.com | Configura o email em um computador novo. Só será necessário uma vez |
