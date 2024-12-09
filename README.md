@@ -34,7 +34,7 @@ Comandos utilizados pelo Git para subir arquivos para o GitHub
 | --- | --- |
 | `git status` | mostra o status dos arquivos novos ou alterados |
 | `git reset` | volta a condição antes do ultimo commit |
-| `git clone <diretorio remoto no github>` | Clona o diretório do github para sua máquina local |
+| `git clone <diretorio remoto no github>` | Clona o diretório do github para sua máquina local \Ex: git clone https://github.com/rogeriorossi/comandos-git.git|
 | | Ex: git clone https://github.com/rogeriorossi/comandos-git.git |
 | | |
 | git config user.name "Fulano de Tal" | Configura o nome em um computador novo. Só será necessário uma vez |
