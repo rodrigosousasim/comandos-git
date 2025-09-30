@@ -17,6 +17,7 @@ Comandos utilizados pelo Git para subir arquivos para o GitHub
 | 4 | `git branch -m novo-nome` | Mudar o nome da branch |
 | 4 | `git push -u origin main` | Envia os arquivos modificados ou criados para o github |
 
+
 ### Merge
 | # | COMANDO | DESCRICAO |
 | --- | --- | --- |
